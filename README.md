@@ -6,7 +6,6 @@
     Task 1 – Fielder Medical Center Security Assessment and Policy Remediation
     <br />
     <br />
-    <a href="https://github.com/silveralcid/WGU-D486-Secure-Systems-Management">View Documentation</a>
 </div>
 
 ---
