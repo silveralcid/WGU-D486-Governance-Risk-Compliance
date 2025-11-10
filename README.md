@@ -8,8 +8,6 @@
     <br />
 </div>
 
----
-
 ## About the Project
 
 This project was completed as part of **D486 – Secure Systems Management**, a WGU course focused on applying NIST-based security frameworks, assessing organizational risks, and developing remediation policies to strengthen system security and compliance posture.
@@ -25,7 +23,6 @@ The deliverables included:
 
 This project reinforced my understanding of compliance-driven security management, documentation standards, and policy enforcement aligned to federal and industry regulations.
 
----
 
 ## Course Information
 
@@ -46,7 +43,7 @@ The graduate produces formalized security policies defining roles, responsibilit
 **Risk Management**
 The graduate integrates assessment findings into a continuous risk-response framework, establishing governance and accountability across security domains.
 
----
+
 
 ## Scenario
 
@@ -61,7 +58,7 @@ An independent **Security Assessment Report (SAR)** revealed significant weaknes
 
 As part of this task, I identified the highest-risk control areas, justified remediation priorities, and authored a new **PCI DSS-compliant policy** for implementation across FMC systems.
 
----
+
 
 ## Key Deliverables
 
@@ -93,14 +90,14 @@ Developed formal policies covering:
 
 Each policy includes defined **roles and responsibilities** for IT Security Administrators, System Administrators, and the CISO.
 
----
+
 
 ## References
 
 National Institute of Standards and Technology. (2020). *Security and Privacy Controls for Information Systems and Organizations* (NIST SP 800-53 Rev. 5).
 Payment Card Industry Security Standards Council. (2024). *Payment Card Industry Data Security Standard: Requirements and Testing Procedures, v4.0.*
 
----
+
 
 ## Contact
 
